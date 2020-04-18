@@ -1,0 +1,4 @@
+name = "susillo-wrangler"
+type = "webpack"
+account_id = "dc7cab135c69d3f35e09f6cb4242258a"
+workers_dev = true
